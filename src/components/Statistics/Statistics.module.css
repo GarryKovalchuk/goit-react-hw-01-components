@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding-top: 10px;
+  padding-bottom: 10px;
   box-shadow: 0 0 30px #1f2657;
   margin-top: 30px;
   border-radius: 10px;
@@ -12,7 +13,7 @@
   font-weight: 700;
   font-size: 30px;
   margin-bottom: 15px;
-  color: #524a4d;
+  color: #261a6d;
 }
 
 .stats__list {
@@ -33,12 +34,13 @@
 .label {
   font-weight: 700;
   font-size: 20px;
-  color: #524a4d8b;
+  color: #9e92cc;
   margin-bottom: 5px;
 }
 
 .percentage {
   font-weight: 800;
   font-size: 20px;
-  color: #524a4d;
+  color: #261a6d;
+  padding-left: 30px;
 }

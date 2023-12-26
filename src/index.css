@@ -29,8 +29,11 @@ li {
 
 p {
   margin: 0;
+  color: #261a6d;
+  text-align: center;
+  font-weight: bold;
 }
 h2 {
-  display: block;
+  display: flex;
   margin: 0;
 }
